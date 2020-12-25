@@ -21,7 +21,7 @@ This Repository Contains Flutter Apps for Beginners.
  ```
  git checkout -b app-name
  ```
- * Follow the same Structure while creating new app `Flutter-Examples/your-App-Folder`
+ * Follow the same Structure while creating new app `Flutter-Projects/your-App-Folder`
  * Also add `README.md` to add steps to run the project other than those mentioned in main `README.md`. you can refer to `README` of any of the existing example app.
  * Commit and push
  ```
